@@ -1,5 +1,5 @@
 body {
-    color: #FFFFFF;
+    color: #A9A9A9;
     max-width: 30em;
     margin: 0 auto;
     font-family: serif;
@@ -15,7 +15,7 @@ h1 a {
 }
 
 a {
-    color: #FFFFFF;
+    color: #000000;
 }
 
 a:hover {
@@ -36,7 +36,7 @@ textarea {
     height: 10em;
     width: 100%;
     font-family: serif;
-    border: 3px solid #FFFFFF;
+    border: 3px solid #000000;
     resize: vertical;
 }
 
@@ -62,7 +62,7 @@ form * {
 
 .entry-timestamp {
     margin-bottom: 1em;
-    color: #FFFFFF
+    color: #000000
 }
 
 .entry * {
